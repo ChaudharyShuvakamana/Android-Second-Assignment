@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity implements RadioGroup.OnChec
     final List<User> user = new ArrayList<>();
     Spinner country;
     AutoCompleteTextView image;
-    String[] images={"shuvakamana","manoj","milan","","ravi","sadish","sishir","upendra"};
+    String[] images={"shuvakamana","manoj","milan","","ravi","sadish","sishir","upendra","suman"};
     EditText name, dob, phone, email;
     RadioGroup gender;
     Button submit,click;
